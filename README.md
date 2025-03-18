@@ -1,7 +1,3 @@
-# ⚠️ Projeto Descontinuado
-
-> Pedimos desculpas, mas este projeto foi descontinuado e está aqui apenas para fins históricos e referências.
-
 ---
 
 # ADMV
